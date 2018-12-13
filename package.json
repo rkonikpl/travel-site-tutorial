@@ -1,0 +1,23 @@
+{
+  "name": "travel-site-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkonikpl/travel-site-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkonikpl/travel-site-tutorial/issues"
+  },
+  "homepage": "https://github.com/rkonikpl/travel-site-tutorial#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.1"
+  }
+}
